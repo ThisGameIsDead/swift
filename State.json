@@ -1,4 +1,7 @@
 {
-  "version": "1",
-  "invite": "https://discord.gg/MGkfwJkPg"
+    "version":  "2",
+    "invite":  "https://discord.gg/MGkfwJkPg",
+    "message":  "",
+    "download":  "https://github.com/ThisGameIsDead/swift/releases/download/v2/Swift.exe",
+    "sha256":  "5ff7ead99c97a03b3a89ee2a61080d4125a395a5aca6a46f20655be4c2a4ac36"
 }
